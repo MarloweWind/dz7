@@ -33,5 +33,5 @@ do{
 } catch spaceShuttleErros.engineIsBroken{
     print("Отказал двигатель")
 }
-
+//на проверку
 
